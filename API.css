@@ -1,0 +1,27 @@
+body{
+    background-image: url('https://images.unsplash.com/photo-1516315720917-231ef9acce48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1047&q=80');
+    background-size: cover;
+    background-attachment: fixed; /*can move the image as you scroll without this line*/
+    background-position: center;
+}
+
+.apiTitle{
+    align-content: center;
+    justify-content: center;
+    display: flex;
+}
+
+.bttn{
+margin-left: 700px;
+}
+
+.quoteText{
+    margin-left:480px;
+    margin-top:60px;
+    padding-right: 505px;
+    
+}
+
+.text-success{
+    list-style-type: none;
+}
